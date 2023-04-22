@@ -22,6 +22,7 @@ html {
 h1 {
   text-align: center;
   margin-top: 50px;
+  font-size: 3.5rem;
 }
 
 /* Style the image */
@@ -77,9 +78,7 @@ a:hover {
   .container {
     padding: 0 10px;
   }
-  
-  h1 {
-    font-size: 3.5rem;
+
   }
   h2 {
     margin-top: 20px;
@@ -88,7 +87,6 @@ a:hover {
   p:last-of-type {
     margin-bottom: 20px;
   }
-}
   /* Navigation styles */
   nav {
     overflow: hidden;
