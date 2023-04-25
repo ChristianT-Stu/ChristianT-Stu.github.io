@@ -130,3 +130,63 @@ a:hover {
     padding: 2rem;
     margin-top: 25px;
   }
+.coding-languages{
+  padding: 2rem;
+}
+#code-img1 {
+    position: relative;
+  }
+#code-img1 img {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+#code-img2 {
+  position: relative;
+}
+#code-img2 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 50px;
+  right: 5px;
+}
+
+#code-img3 {
+  position: relative;
+}
+#code-img3 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 50px;
+  justify-content: center;
+}
+
+#code-img4 {
+  position: relative;
+}
+#code-img4 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+#code-img5 {
+  position: relative;
+}
+#code-img5 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+.work-experience {
+  padding: 2rem;
+}
